@@ -38,7 +38,6 @@ public class DwarvesTest {
     @Test
     public void canSwitchWeapon(){
         dwarves.addWeapon("Sword");
-        dwarves.drawWeapon();
         assertEquals("Sword",dwarves.drawWeapon());
     }
 

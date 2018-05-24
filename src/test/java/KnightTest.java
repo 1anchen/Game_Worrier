@@ -38,7 +38,6 @@ import static org.junit.Assert.assertEquals;
      @Test
      public void canSwitchWeapon(){
          knight.addWeapon("Dagger");
-         knight.drawWeapon();
          assertEquals("Dagger",knight.drawWeapon());
      }
 

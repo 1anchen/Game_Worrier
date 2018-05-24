@@ -38,7 +38,6 @@ import org.junit.Test;
      @Test
      public void canSwitchWeapon(){
          barbarian.addWeapon("Axe");
-         barbarian.drawWeapon();
          assertEquals("Axe",barbarian.drawWeapon());
      }
 

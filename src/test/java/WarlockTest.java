@@ -49,7 +49,32 @@ public class WarlockTest {
     @Test
     public void canSwitchWeapon() {
         warlock.addWeapon("Axe");
-        warlock.drawWeapon();
         assertEquals("Axe", warlock.drawWeapon());
+    }
+
+    @Test
+    public void canAddSpell() {
+        assertEquals(0, warlock.spellCount());
+        warlock.addSpell("Tornado");
+        assertEquals(1, warlock.spellCount());
+    }
+
+    @Test
+    public void canSwitchSpell() {
+        warlock.addSpell("Tornado");
+        assertEquals("Tornado", warlock.changeSpell());
+    }
+
+    @Test
+    public void canAddPet() {
+        assertEquals(0, warlock.petCount());
+        warlock.addPet("Demon");
+        assertEquals(1, warlock.petCount());
+    }
+
+    @Test
+    public void canSwitchPet() {
+        warlock.addPet("Demon");
+        assertEquals("Demon", warlock.changePet());
     }
 }

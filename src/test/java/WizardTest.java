@@ -51,4 +51,31 @@ public class WizardTest {
         wizard.drawWeapon();
         assertEquals("Sword", wizard.drawWeapon());
     }
+
+
+    @Test
+    public void canAddSpell() {
+        assertEquals(0, wizard.spellCount());
+        wizard.addSpell("Holy Water");
+        assertEquals(1, wizard.spellCount());
+    }
+
+    @Test
+    public void canSwitchSpell() {
+        wizard.addSpell("Holy Water");
+        assertEquals("Holy Water", wizard.changeSpell());
+    }
+
+    @Test
+    public void canAddPet() {
+        assertEquals(0, wizard.petCount());
+        wizard.addPet("Eagle");
+        assertEquals(1, wizard.petCount());
+    }
+
+    @Test
+    public void canSwitchPet() {
+        wizard.addPet("Eagle");
+        assertEquals("Eagle", wizard.changePet());
+    }
 }
