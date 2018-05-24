@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ba80d58-bb02-47f8-8a95-d9d3d3ae08cf" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Characters/Barbarian.java" afterPath="$PROJECT_DIR$/src/main/java/Characters/Barbarian.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Characters/Dwarves.java" afterPath="$PROJECT_DIR$/src/main/java/Characters/Dwarves.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Characters/Knight.java" afterPath="$PROJECT_DIR$/src/main/java/Characters/Knight.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DwarvesTest.java" afterPath="$PROJECT_DIR$/src/test/java/DwarvesTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/KnightTest.java" afterPath="$PROJECT_DIR$/src/test/java/KnightTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Characters/Warlock.java" afterPath="$PROJECT_DIR$/src/main/java/Characters/Warlock.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WarlockTest.java" afterPath="$PROJECT_DIR$/src/test/java/WarlockTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -46,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DwarvesTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DwarvesTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/DwarvesTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="341">
@@ -66,11 +63,50 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Warlock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Characters/Warlock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+              <folding>
+                <element signature="e#488#489#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WarlockTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/WarlockTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="38" column="26" lean-forward="false" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
+                <element signature="e#426#427#0" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#529#530#0" expanded="true" />
+                <element signature="e#573#574#0" expanded="true" />
+                <element signature="e#627#628#0" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+                <element signature="e#728#729#0" expanded="true" />
+                <element signature="e#768#769#0" expanded="true" />
+                <element signature="e#821#822#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Barbarian.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Characters/Barbarian.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,8 +117,8 @@
       <file leaf-file-name="BarbarianTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/BarbarianTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="37" column="4" lean-forward="false" selection-start-line="37" selection-start-column="4" selection-end-line="42" selection-end-column="6" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#225#226#0" expanded="true" />
@@ -155,8 +191,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -469,6 +505,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Characters/Knight.java" />
         <option value="$PROJECT_DIR$/src/test/java/KnightTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/DwarvesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Characters/Warlock.java" />
+        <option value="$PROJECT_DIR$/src/test/java/WarlockTest.java" />
       </list>
     </option>
   </component>
@@ -579,7 +617,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DwarvesTest.canSwitchWeapon">
+  <component name="RunManager" selected="JUnit.WarlockTest.canGetPet">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -600,26 +638,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-    </configuration>
-    <configuration name="BarbarianTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="fantasygame_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BarbarianTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
     </configuration>
     <configuration name="BarbarianTest.canSwitchWeapon" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -661,13 +679,33 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="KnightTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="KnightTest.canSwitchWeapon" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="fantasygame_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="KnightTest" />
+      <option name="METHOD_NAME" value="canSwitchWeapon" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="WarlockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="fantasygame_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WarlockTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -681,14 +719,14 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="KnightTest.canSwitchWeapon" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WarlockTest.canGetPet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="fantasygame_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="KnightTest" />
-      <option name="METHOD_NAME" value="canSwitchWeapon" />
+      <option name="MAIN_CLASS_NAME" value="WarlockTest" />
+      <option name="METHOD_NAME" value="canGetPet" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -762,19 +800,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.BarbarianTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.KnightTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.BarbarianTest.canSwitchWeapon" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.KnightTest.canSwitchWeapon" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.DwarvesTest.canSwitchWeapon" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.BarbarianTest.canSwitchWeapon" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.KnightTest.canSwitchWeapon" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.DwarvesTest.canSwitchWeapon" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.WarlockTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.WarlockTest.canGetPet" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="JUnit.BarbarianTest.canSwitchWeapon" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.DwarvesTest.canSwitchWeapon" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.KnightTest.canSwitchWeapon" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.KnightTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.BarbarianTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.WarlockTest.canGetPet" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.WarlockTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.DwarvesTest.canSwitchWeapon" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.KnightTest.canSwitchWeapon" />
       </list>
     </recent_temporary>
   </component>
@@ -795,18 +833,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BarbarianTest_canSwitchWeapon - 2018.05.24 at 11h 48m 44s.xml">
-      <configuration name="BarbarianTest.canSwitchWeapon" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BarbarianTest_canSwitchWeapon - 2018.05.24 at 11h 49m 41s.xml">
-      <configuration name="BarbarianTest.canSwitchWeapon" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BarbarianTest_canSwitchWeapon - 2018.05.24 at 11h 54m 35s.xml">
-      <configuration name="BarbarianTest.canSwitchWeapon" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BarbarianTest_canSwitchWeapon - 2018.05.24 at 11h 54m 37s.xml">
-      <configuration name="BarbarianTest.canSwitchWeapon" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BarbarianTest_canSwitchWeapon - 2018.05.24 at 11h 55m 58s.xml">
       <configuration name="BarbarianTest.canSwitchWeapon" configurationId="JUnit" />
     </history-entry>
@@ -819,11 +845,23 @@
     <history-entry file="BarbarianTest_canSwitchWeapon - 2018.05.24 at 13h 10m 33s.xml">
       <configuration name="BarbarianTest.canSwitchWeapon" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BarbarianTest_canSwitchWeapon - 2018.05.24 at 13h 11m 07s.xml">
+      <configuration name="BarbarianTest.canSwitchWeapon" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BarbarianTest_canSwitchWeapon - 2018.05.24 at 13h 22m 06s.xml">
+      <configuration name="BarbarianTest.canSwitchWeapon" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="DwarvesTest_canSwitchWeapon - 2018.05.24 at 13h 10m 31s.xml">
+      <configuration name="DwarvesTest.canSwitchWeapon" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DwarvesTest_canSwitchWeapon - 2018.05.24 at 13h 11m 05s.xml">
       <configuration name="DwarvesTest.canSwitchWeapon" configurationId="JUnit" />
     </history-entry>
     <history-entry file="KnightTest_canSwitchWeapon - 2018.05.24 at 13h 09m 42s.xml">
       <configuration name="KnightTest.canSwitchWeapon" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WarlockTest - 2018.05.24 at 13h 22m 03s.xml">
+      <configuration name="WarlockTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -906,39 +944,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Characters/Barbarian.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Characters/Knight.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BarbarianTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="37" column="4" lean-forward="false" selection-start-line="37" selection-start-column="4" selection-end-line="42" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -984,6 +994,69 @@
             <element signature="e#473#474#0" expanded="true" />
             <element signature="e#516#517#0" expanded="true" />
             <element signature="e#569#570#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Characters/Barbarian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BarbarianTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Characters/Warlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/WarlockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="38" column="26" lean-forward="false" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#821#822#0" expanded="true" />
           </folding>
         </state>
       </provider>

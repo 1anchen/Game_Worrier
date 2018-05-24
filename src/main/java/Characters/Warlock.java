@@ -19,4 +19,11 @@ public class Warlock  extends Characters implements IWeapon {
         return newWeapon;
     }
 
+    public String getSpell() {
+        return this.spell;
+    }
+
+    public String getPet() {
+        return this.pet;
+    }
 }
