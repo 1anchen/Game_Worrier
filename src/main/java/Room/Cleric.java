@@ -12,7 +12,17 @@ public class Cleric {
         this.potions.add("Healing Gel");
     }
 
+    public int countPotion(){
+        return this.potions.size();
+    }
+
     public String getPotion(){
         return this.potions.get(0);
     }
+
+    public void deletePotion(){
+        this.potions.remove(0);
+    }
+
+
 }
