@@ -12,8 +12,7 @@ public class Barbarian extends Characters implements IWeapon{
 
     public String drawWeapon(){
         String newWeapon = weapons.get(0);
-        addWeapon(this.weapon);
-        this.weapons.remove(0);
+//
         return newWeapon;
     }
 }
