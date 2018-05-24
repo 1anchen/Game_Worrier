@@ -35,6 +35,13 @@ import static org.junit.Assert.assertEquals;
         assertEquals(1,knight.weaponCount());
     }
 
+     @Test
+     public void canSwitchWeapon(){
+         knight.addWeapon("Dagger");
+         knight.drawWeapon();
+         assertEquals("Dagger",knight.drawWeapon());
+     }
+
 
 
 }

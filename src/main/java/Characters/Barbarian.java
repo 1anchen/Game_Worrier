@@ -12,7 +12,7 @@ public class Barbarian extends Characters implements IWeapon{
 
     public String drawWeapon(){
         String newWeapon = weapons.get(0);
-//
+
         return newWeapon;
     }
 }

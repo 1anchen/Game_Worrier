@@ -35,6 +35,13 @@ public class DwarvesTest {
         assertEquals(1,dwarves.weaponCount());
     }
 
+    @Test
+    public void canSwitchWeapon(){
+        dwarves.addWeapon("Sword");
+        dwarves.drawWeapon();
+        assertEquals("Sword",dwarves.drawWeapon());
+    }
+
 
 
 }
